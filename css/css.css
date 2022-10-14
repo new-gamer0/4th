@@ -1,0 +1,343 @@
+@media (min-width: 376px) {
+body{
+  background-color: hsl(233, 47%, 7%);
+}
+.q::after{
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+  content: "";
+    width: 570px;
+    height: 445px;
+    position: absolute;
+    top: 246px;
+    left: 165px;
+    background-color: hsl(244, 38%, 16%);
+    z-index: -1;
+}
+.q::before{
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+  content: "";
+  position: absolute;
+  left: 737px;
+  top: 245.5px;
+  width: 536px;
+  height: 445px;
+  background-color: hsl(277deg 65% 31% / 49%);
+  z-index: 1;
+}
+img{
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+  position: absolute;
+    left: 737px;
+    top: 245.5px;
+    width: 536px;
+    height: 445px;
+    z-index: 0;
+}
+.e{
+  position: absolute;
+      top: 283px;
+  left: 237px;
+  color: hsl(0, 0%, 100%);
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 35px;
+  z-index: 1;
+  letter-spacing: 0.7px;
+}
+.r{
+  position: absolute;
+          top: 283px;
+      left: 309px;
+      color: hsl(277, 64%, 61%);
+      font-family: 'Inter';
+      font-weight: 700;
+      font-size: 35px;
+      z-index: 1;
+      letter-spacing: 0.7px;
+}
+.t{
+  position: absolute;
+    top: 283px;
+left: 458px;
+color: hsl(0, 0%, 100%);
+font-family: 'Inter';
+font-weight: 700;
+font-size: 35px;
+letter-spacing: 0.7px;
+z-index: 1;
+}
+.y{
+  position: absolute;
+      top: 327px;
+      left: 237px;
+      color: hsl(0, 0%, 100%);
+      font-family: 'Inter';
+      letter-spacing: 0.7px;
+      font-weight: 700;
+      font-size: 35px;
+      z-index: 1;
+}
+.u{
+  color: hsla(0, 0%, 100%, 0.6);
+      font-size: 15px;
+      left: 238px;
+      position: absolute;
+      top: 419px;
+      line-height: 23.5px;
+      width: 346px;
+      font-family: 'Inter';
+      z-index: 1;
+}
+.i{
+  position: absolute;
+  left: 236px;
+  top: 554px;
+  color: hsl(0, 0%, 100%);
+  z-index: 1;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 23px;
+}
+.o{
+  color: hsla(0, 0%, 100%, 0.45);
+    font-size: 13px;
+    letter-spacing: 0.2px;
+    position: absolute;
+    left: 236px;
+    top: 598px;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+    z-index: 1;
+    text-transform: uppercase;
+}
+.p{
+  position: absolute;
+    left: 383px;
+    top: 554px;
+    color: hsl(0, 0%, 100%);
+    z-index: 1;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 23px;
+}
+.a{
+  color: hsla(0, 0%, 100%, 0.45);
+font-size: 13px;
+letter-spacing: 0.2px;
+position: absolute;
+left: 383px;
+top: 598px;
+font-family: 'Lexend Deca';
+font-weight: 400;
+z-index: 1;
+text-transform: uppercase;
+}
+.s{
+  position: absolute;
+  left: 522px;
+  top: 554px;
+  color: hsl(0, 0%, 100%);
+  z-index: 1;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 23px;
+  text-transform: uppercase;
+}
+.d{
+  color: hsla(0, 0%, 100%, 0.45);
+font-size: 13px;
+letter-spacing: 0.2px;
+position: absolute;
+left: 522px;
+top: 598px;
+font-family: 'Lexend Deca';
+font-weight: 400;
+z-index: 1;
+text-transform: uppercase;
+
+}
+.h , .g{
+  position: absolute;
+  left: 500000%;
+}
+}
+@media (max-width:375px) {
+  .w{
+    position: absolute;
+    left: 100000%
+  }
+  .f{
+    position: absolute;
+top: 90px;
+left: 105px;
+height: 247px;
+width: 337px;
+border-top-left-radius: 7px;
+border-top-right-radius: 7px;
+  }
+  .q::before{
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    content: "";
+    position: absolute;
+    top: 90px;
+    left: 105px;
+    height: 247px;
+    width: 337px;
+    background-color: hsl(277deg 65% 31% / 49%);
+    z-index: 1;
+  }
+  body{
+    background-color: hsl(233, 47%, 7%);
+}
+.q::after{
+  border-radius: 7px;
+  content: "";
+  top: 90px;
+  left: 105px;
+  height: 795px;
+  width: 337px;
+  position: absolute;
+  background-color: hsl(244, 38%, 16%);
+  z-index: -1;
+}
+.e{
+  position: absolute;
+      top: 347px;
+      left: 157px;
+      color: hsl(0, 0%, 100%);
+      font-family: 'Inter';
+      font-weight: 700;
+      font-size: 28px;
+      z-index: 1;
+}
+.r{
+  position: absolute;
+    top: 347px;
+    left: 214px;
+    color: hsl(277, 64%, 61%);
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 28px;
+    z-index: 1;
+}
+.t,.y {
+  color: White;
+  visibility: hidden;
+}
+.g{
+  position: absolute;
+top: 347px;
+left: 333px;
+color: hsl(0, 0%, 100%);
+font-family: 'Inter';
+font-weight: 700;
+font-size: 28px;
+z-index: 1;
+}
+.h{
+  position: absolute;
+top: 380px;
+left: 141px;
+color: hsl(0, 0%, 100%);
+font-family: 'Inter';
+font-weight: 700;
+width: 259px;
+font-size: 28px;
+z-index: 1;
+}
+.j{
+  position: absolute;
+  top: 412px;
+  left: 234px;
+  color: hsl(0, 0%, 100%);
+  font-family: 'Inter';
+  font-weight: 700;
+  width: 259px;
+  font-size: 28px;
+  z-index: 1;
+  letter-spacing: 0.7px;
+}
+.u{
+  color: hsla(0, 0%, 100%, 0.6);
+    font-size: 15px;
+    left: 145px;
+    position: absolute;
+    top: 475px;
+    line-height: 25.5px;
+    width: 255px;
+    font-family: 'Inter';
+    z-index: 1;
+    text-align: center;
+}
+.i{
+  position: absolute;
+left: 243px;
+top: 611px;
+color: hsl(0, 0%, 100%);
+z-index: 1;
+font-family: 'Inter';
+font-weight: 700;
+font-size: 23px;
+}
+.o{
+  color: hsla(0, 0%, 100%, 0.45);
+  font-size: 13px;
+  letter-spacing: 0.2px;
+  position: absolute;
+  left: 232px;
+  top: 655px;
+  font-family: 'Lexend Deca';
+  font-weight: 400;
+  z-index: 1;
+  text-transform: uppercase;
+}
+.p{
+  position: absolute;
+    left: 252px;
+    top: 692px;
+    color: hsl(0, 0%, 100%);
+    z-index: 1;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 23px;
+}
+.a{
+  color: hsla(0, 0%, 100%, 0.45);
+      font-size: 13px;
+      letter-spacing: 0.2px;
+      position: absolute;
+      left: 233px;
+      top: 737px;
+      font-family: 'Lexend Deca';
+      font-weight: 400;
+      z-index: 1;
+      text-transform: uppercase;
+}
+.s{
+  position: absolute;
+      left: 242px;
+      top: 773px;
+      color: hsl(0, 0%, 100%);
+      z-index: 1;
+      font-family: 'Inter';
+      font-weight: 700;
+      font-size: 23px;
+      text-transform: uppercase;
+}
+.d{
+  color: hsla(0, 0%, 100%, 0.45);
+    font-size: 13px;
+    letter-spacing: 0.2px;
+    position: absolute;
+    left: 243px;
+    top: 819px;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+    z-index: 1;
+    text-transform: uppercase;
+}
+}
